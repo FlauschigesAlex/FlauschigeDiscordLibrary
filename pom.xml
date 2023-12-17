@@ -55,11 +55,13 @@
             <groupId>net.dv8tion</groupId>
             <artifactId>JDA</artifactId>
             <version>LATEST</version>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>at.flauschigesalex</groupId>
             <artifactId>FlauschigeLibrary</artifactId>
             <version>LATEST</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>
