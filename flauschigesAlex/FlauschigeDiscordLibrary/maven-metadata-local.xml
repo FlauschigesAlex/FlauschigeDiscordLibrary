@@ -3,10 +3,10 @@
   <groupId>flauschigesAlex</groupId>
   <artifactId>FlauschigeDiscordLibrary</artifactId>
   <versioning>
-    <release>v1.0.0</release>
+    <release>v1.0.1</release>
     <versions>
-      <version>v1.0.0</version>
+      <version>v1.0.1</version>
     </versions>
-    <lastUpdated>20231217145907</lastUpdated>
+    <lastUpdated>20231217151016</lastUpdated>
   </versioning>
 </metadata>
